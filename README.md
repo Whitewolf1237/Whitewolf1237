@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/00white_wolf00" target="blank"><img src="https://img.shields.io/twitter/follow/00white_wolf00?logo=twitter&style=for-the-badge" alt="00white_wolf00" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
 - 💬 Ask me about **Javascript and React**
